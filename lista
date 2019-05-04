@@ -1,143 +1,365 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E***" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A&E%20HD.png" group-title="Filmes / Séries",A&E
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1667
-#EXTINF:-1 tvg-id="A&E***" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A&E%20HD.png" group-title="Filmes / Séries",A&E HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/233
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="Filmes / Séries",AMC
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1666
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="Filmes / Séries",AMC HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/232
-#EXTINF:-1 tvg-id="AXN***" tvg-name="AXN" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes / Séries",AXN
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1663
-#EXTINF:-1 tvg-id="AXN HD***" tvg-name="AXN HD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes / Séries",AXN HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/229
-#EXTINF:-1 tvg-id="CINEMAX***" tvg-name="CINEMAX" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes / Séries",CINEMAX
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1651
-#EXTINF:-1 tvg-id="CINEMAX HD***" tvg-name="CINEMAX HD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes / Séries",CINEMAX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/219
-#EXTINF:-1 tvg-id="E!***" tvg-name="E!" tvg-logo="http://printv.esy.es/server/E!%20Entertainment.png" group-title="Filmes / Séries",E!
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1635
-#EXTINF:-1 tvg-id="E! HD***" tvg-name="E! HD" tvg-logo="http://printv.esy.es/server/E!%20Entertainment.png" group-title="Filmes / Séries",E! HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/206
-#EXTINF:-1 tvg-id="FOX***" tvg-name="FOX" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Filmes / Séries",FOX
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1626
-#EXTINF:-1 tvg-id="FOX HD***" tvg-name="FOX HD" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Filmes / Séries",FOX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/197
-#EXTINF:-1 tvg-id="FOX LIFE***" tvg-name="FOX LIFE" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="Filmes / Séries",FOX LIFE
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1625
-#EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIFE HD" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="Filmes / Séries",FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/196
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes / Séries",FOX PREMIUM 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1624
-#EXTINF:-1 tvg-id="FOX PREMIUM 1 HD" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes / Séries",FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/195
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes / Séries",FOX PREMIUM 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1623
-#EXTINF:-1 tvg-id="FOX PREMIUM 2 HD" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes / Séries",FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/194
-#EXTINF:-1 tvg-id="FX***" tvg-name="FX" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Filmes / Séries",FX
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1619
-#EXTINF:-1 tvg-id="FX HD***" tvg-name="FX HD" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Filmes / Séries",FX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/190
-#EXTINF:-1 tvg-id="HBO HD***" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Filmes / Séries",HBO
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1599
-#EXTINF:-1 tvg-id="HBO***" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Filmes / Séries",HBO HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/170
-#EXTINF:-1 tvg-id="HBO 2 HD***" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Filmes / Séries",HBO 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1598
-#EXTINF:-1 tvg-id="HBO 2 HD***" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Filmes / Séries",HBO 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/172
-#EXTINF:-1 tvg-id="HBO FAMILY***" tvg-name="HBO FAMILY" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="Filmes / Séries",HBO FAMILY
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1597
-#EXTINF:-1 tvg-id="HBO FAMILY HD***" tvg-name="HBO FAMILY HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="Filmes / Séries",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/171
-#EXTINF:-1 tvg-id="HBO PLUS***" tvg-name="HBO PLUS" tvg-logo="http://printv.esy.es/server/HBO%20Plus%20HD.png" group-title="Filmes / Séries",HBO PLUS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1596
-#EXTINF:-1 tvg-id="HBO PLUS HD***" tvg-name="HBO PLUS HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus%20HD.png" group-title="Filmes / Séries",HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/169
-#EXTINF:-1 tvg-id="HBO SIGNATURE***" tvg-name="HBO SIGNATURE" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="Filmes / Séries",HBO SIGNATURE
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1594
-#EXTINF:-1 tvg-id="HBO SIGNATURE HD***" tvg-name="HBO SIGNATURE HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="Filmes / Séries",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/168
-#EXTINF:-1 tvg-id="MAX***" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="Filmes / Séries",MAX
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1589
-#EXTINF:-1 tvg-id="MAX HD***" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max.png" group-title="Filmes / Séries",MAX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/163
-#EXTINF:-1 tvg-id="MAX PRIME***" tvg-name="MAX PRIME" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Filmes / Séries",MAX PRIME
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1588
-#EXTINF:-1 tvg-id="MAX PRIME HD***" tvg-name="MAX PRIME HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Filmes / Séries",MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/162
-#EXTINF:-1 tvg-id="MAX UP***" tvg-name="MAX UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Filmes / Séries",MAX UP
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1586
-#EXTINF:-1 tvg-id="MAX UP***" tvg-name="MAX UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Filmes / Séries",MAX UP HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/161
-#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="Filmes / Séries",MEGAPIX
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1585
-#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX HD" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Filmes / Séries",MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/160
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL***" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes / Séries",PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1574
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL HD***" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes / Séries",PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/150
-#EXTINF:-1 tvg-id="SONY***" tvg-name="CANAL SONY" tvg-logo="http://printv.esy.es/server/Sony%20HD.png" group-title="Variedades / Músicas",SONY
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1654
-#EXTINF:-1 tvg-id="SONY HD***" tvg-name="CANAL SONY HD" tvg-logo="http://printv.esy.es/server/Sony%20HD.png" group-title="Variedades / Músicas",SONY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/221
-#EXTINF:-1 tvg-id="SPACE***" tvg-name="SPACE" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes / Séries",SPACE
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1556
-#EXTINF:-1 tvg-id="SPACE HD***" tvg-name="SPACE HD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes / Séries",SPACE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/137
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL***" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Filmes / Séries",STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1552
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD***" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/133
-#EXTINF:-1 tvg-id="SYFY***" tvg-name="SYFY" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Filmes / Séries",SYFY
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1557
-#EXTINF:-1 tvg-id="SYFY HD***" tvg-name="SYFY HD" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Filmes / Séries",SYFY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/132
-#EXTINF:-1 tvg-id="TBS***" tvg-name="TBS" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes / Séries",TBS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1550
-#EXTINF:-1 tvg-id="TBS HD***" tvg-name="TBS HD" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes / Séries",TBS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/131
-#EXTINF:-1 tvg-id="TCM***" tvg-name="TCM" tvg-logo="http://printv.esy.es/server/TCM.png" group-title="Filmes / Séries",TCM
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1549
-#EXTINF:-1 tvg-id="TELECINE ACTION***" tvg-name="TELECINE ACTION" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Filmes / Séries",TELECINE ACTION
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1548
-#EXTINF:-1 tvg-id="TELECINE ACTION HD***" tvg-name="TELECINE ACTION HD" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Filmes / Séries",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/130
-#EXTINF:-1 tvg-id="TELECINE CULT***" tvg-name="TELECINE CULT" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Filmes / Séries",TELECINE CULT
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1547
-#EXTINF:-1 tvg-id="TELECINE CULT HD***" tvg-name="TELECINE CULT HD" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Filmes / Séries",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/129
-#EXTINF:-1 tvg-id="TELECINE FUN***" tvg-name="TELECINE FUN" tvg-logo="http://printv.esy.es/server/Telecine%20Fun%20HD.png" group-title="Filmes / Séries",TELECINE FUN
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1546
-#EXTINF:-1 tvg-id="TELECINE FUN HD***" tvg-name="TELECINE FUN HD" tvg-logo="http://printv.esy.es/server/Telecine%20Fun%20HD.png" group-title="Filmes / Séries",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/128
-#EXTINF:-1 tvg-id="TELECINE PIPOCA***" tvg-name="TELECINE PIPOCA" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca%20HD.png" group-title="Filmes / Séries",TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1545
-#EXTINF:-1 tvg-id="TELECINE PIPOCA HD***" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca%20HD.png" group-title="Filmes / Séries",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/127
-#EXTINF:-1 tvg-id="TELECINE PREMIUM***" tvg-name="TELECINE PREMIUM" tvg-logo="http://printv.esy.es/server/Telecine%20Premium%20HD.png" group-title="Filmes / Séries",TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1544
-#EXTINF:-1 tvg-id="TELECINE PREMIUM HD***" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://printv.esy.es/server/Telecine%20Premium%20HD.png" group-title="Filmes / Séries",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/126
-#EXTINF:-1 tvg-id="TELECINE TOUCH***" tvg-name="TELECINE TOUCH" tvg-logo="http://printv.esy.es/server/Telecine%20Touch%20HD.png" group-title="Filmes / Séries",TELECINE TOUCH
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1543
-#EXTINF:-1 tvg-id="TELECINE TOUCH HD***" tvg-name="TELECINE TOUCH HD" tvg-logo="http://printv.esy.es/server/Telecine%20Touch%20HD.png" group-title="Filmes / Séries",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/125
-#EXTINF:-1 tvg-id="TNT***" tvg-name="TNT" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes / Séries",TNT
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1540
-#EXTINF:-1 tvg-id="TNT HD***" tvg-name="TNT HD" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes / Séries",TNT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/123
-#EXTINF:-1 tvg-id="TNT SERIES***" tvg-name="TNT SERIES" tvg-logo="http://printv.esy.es/server/TNT%20S%C3%A9ries.png" group-title="Filmes / Séries",TNT SERIES
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1539
-#EXTINF:-1 tvg-id="TNT SERIES HD***" tvg-name="TNT SERIES HD" tvg-logo="http://printv.esy.es/server/TNT%20S%C3%A9ries.png" group-title="Filmes / Séries",TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/122
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL***" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://printv.esy.es/server/Universal%20TV.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1529
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD***" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://printv.esy.es/server/Universal%20TV.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/118
-#EXTINF:-1 tvg-id="WARNER CHANNEL HD***" tvg-name="WARNER CHANNEL" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes / Séries",WARNER CHANNEL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1525
-#EXTINF:-1 tvg-id="WARNER CHANNEL***" tvg-name="WARNER CHANNEL HD" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes / Séries",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/115
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/9344
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8139
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20892
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4404
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20893
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/9343
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7691
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20890
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7448
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20891
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13212
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6140
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20882
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4402
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20884
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10293
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6963
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS FILMES | SERIES",CANAL BRASIL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20838
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",CANAL SONY FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13202
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6961
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES | SERIES",CANAL SONY HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20527
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png" group-title="CANAIS FILMES | SERIES",CANAL SONY SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4395
+#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png" group-title="CANAIS FILMES | SERIES",CANAL SONY SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20529
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10993
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7802
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20834
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Cinemax_LA.png" group-title="CANAIS FILMES | SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4393
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES | SERIES",CINEMAX SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24630
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24920
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10292
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20827
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4391
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES | SERIES",COMEDY CENTRAL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20828
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/9141
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6122
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="CANAIS FILMES | SERIES",FOX HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20759
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png" group-title="CANAIS FILMES | SERIES",FOX SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4375
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png" group-title="CANAIS FILMES | SERIES",FOX SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20760
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13199
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/25009
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6876
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20761
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4374
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png" group-title="CANAIS FILMES | SERIES",FOX LIFE SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20762
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10279
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 1 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20763
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11529
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10278
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20764
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6116
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20775
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4371
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png" group-title="CANAIS FILMES | SERIES",FX SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20777
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11567
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6110
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20690
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4365
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS TELECINE/HBO",HBO 2 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20692
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11568
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6109
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20687
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4364
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS TELECINE/HBO",HBO FAMILY SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20688
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11566
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6108
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20694
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4366
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS TELECINE/HBO",HBO SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20696
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13190
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6106
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20920
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4363
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS TELECINE/HBO",HBO PLUS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20684
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11570
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6105
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20678
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4361
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS TELECINE/HBO",HBO SIGNATURE SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20679
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13189
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10266
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20662
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4358
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS FILMES | SERIES",MAX SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20664
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/25014
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7850
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20657
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4357
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxprime.png" group-title="CANAIS FILMES | SERIES",MAX PRIME SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20658
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/25015
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10265
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20659
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4355
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/maxup.png" group-title="CANAIS FILMES | SERIES",MAX UP SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20660
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8146
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6101
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20653
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4354
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png" group-title="CANAIS FILMES | SERIES",MEGAPIX SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20654
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13185
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6945
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20619
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6946
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png" group-title="CANAIS FILMES | SERIES",PARAMOUNT SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20621
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PLAY TV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/playtv.png" group-title="CANAIS ENTRETENIMENTO",PLAY TV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20617
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 1
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20586
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 2
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20585
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 3
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20584
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 4
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20583
+#EXTINF:-1 tvg-id="" tvg-name="PPV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CANAIS FILMES | SERIES",PPV 5
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20582
+#EXTINF:-1 tvg-id="Rai Italia" tvg-name="RAI ITALIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="CANAIS FILMES | SERIES",RAI ITALIA SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20581
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",SPACE FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13197
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6085
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1257.png" group-title="CANAIS FILMES | SERIES",SPACE HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20532
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png" group-title="CANAIS FILMES | SERIES",SPACE SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4328
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png" group-title="CANAIS FILMES | SERIES",SPACE SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20533
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13194
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7874
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20546
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4324
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="CANAIS FILMES | SERIES",STUDIO UNIVERSAL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20547
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE TV HD" tvg-logo="https://images.amcnetworks.com/festival.sundancetv.com/wp-content/uploads/2017/12/sundance_tv_logo.png" group-title="CANAIS FILMES | SERIES",SUNDANCE TV HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20524
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13195
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7795
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20550
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4323
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS FILMES | SERIES",SYFY SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20551
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7873
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20521
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4322
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS FILMES | SERIES",TBS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20522
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11003
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4321
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="CANAIS FILMES | SERIES",TCM SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20496
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8141
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6080
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20517
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4320
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE/HBO",TELECINE ACTION SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20518
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8143
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10247
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20513
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4319
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png" group-title="CANAIS TELECINE/HBO",TELECINE CULT SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20514
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11561
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6079
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20509
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4318
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE/HBO",TELECINE FUN SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20510
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8144
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6078
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20505
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4317
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20506
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8140
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6077
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20501
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4316
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20502
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6076
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20497
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4315
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20498
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13181
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6074
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20493
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4312
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES | SERIES",TNT SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20494
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13186
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6073
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20489
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4311
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png" group-title="CANAIS FILMES | SERIES",TNT SERIES SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20490
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/13192
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/5987
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20464
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4308
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png" group-title="CANAIS FILMES | SERIES",UNIVERSAL CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20465
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11525
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6072
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20456
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4307
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png" group-title="CANAIS FILMES | SERIES",WARNER CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20457
